@@ -12,18 +12,19 @@ class Result {
         System.out.println();
     }
     public static void insertionSort2(int n, List<Integer> arr) {
-        for (int i = 1; i < n; i++) {
-            int temp =arr.get(i);
+        for (int i = 1; i < n; i++){
+            int key = arr.get(i);
             int j = i - 1;
-            while (j >= 0 && arr.get(j) > temp) {
-                arr.set(j + 1,arr.get(j));
+            while (j >= 0 && arr.get(j) > key) {
+                arr.set(j + 1, arr.get(j));
                 j--;
             }
-            arr.set(j+1, temp);
+            arr.set(j + 1, key);
             printArray(arr);
         }
+        }
     }
-}
+
 
 public class Main {
     public static void main(String[] args) throws IOException {
