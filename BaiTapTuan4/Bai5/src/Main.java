@@ -1,8 +1,6 @@
 
 import java.io.*;
 import java.util.*;
-import java.util.stream.*;
-import static java.util.stream.Collectors.toList;
 
 class Result {
     public static void printArray(List<Integer> a) {
@@ -11,33 +9,36 @@ class Result {
         }
         System.out.println();
     }
+
     public static void insertionSort2(int n, List<Integer> arr) {
-        for (int i = 1; i < n; i++){
+        for (int i = 1; i < n; i++) {
             int key = arr.get(i);
             int j = i - 1;
+
             while (j >= 0 && arr.get(j) > key) {
                 arr.set(j + 1, arr.get(j));
                 j--;
             }
+
             arr.set(j + 1, key);
             printArray(arr);
         }
-        }
     }
-
+}
 
 public class Main {
-    public static void main(String[] args) throws IOException {
-        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
-        int n = Integer.parseInt(bufferedReader.readLine().trim());
+        int n = sc.nextInt();
+        List<Integer> arr = new ArrayList<>();
 
-        List<Integer> arr = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
-                .map(Integer::parseInt)
-                .collect(toList());
+        for (int i = 0; i < n; i++) {
+            arr.add(sc.nextInt());
+        }
 
         Result.insertionSort2(n, arr);
 
-        bufferedReader.close();
+        sc.close();
     }
 }

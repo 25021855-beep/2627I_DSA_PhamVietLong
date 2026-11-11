@@ -2,9 +2,40 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1.4.10/1.4.10.iml" filepath="$PROJECT_DIR$/1.4.10/1.4.10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/1.4.12/1.4.12.iml" filepath="$PROJECT_DIR$/1.4.12/1.4.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan2/1.4.10/1.4.10.iml" filepath="$PROJECT_DIR$/BaiTapTuan2/1.4.10/1.4.10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan2/1.4.12/1.4.12.iml" filepath="$PROJECT_DIR$/BaiTapTuan2/1.4.12/1.4.12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan2/1.4.17/1.4.17.iml" filepath="$PROJECT_DIR$/BaiTapTuan2/1.4.17/1.4.17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan2/1.4.18/1.4.18.iml" filepath="$PROJECT_DIR$/BaiTapTuan2/1.4.18/1.4.18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai Tap Tuan 9/Bai Tap Tuan 9.iml" filepath="$PROJECT_DIR$/Bai Tap Tuan 9/Bai Tap Tuan 9.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai TapThucHanh.iml" filepath="$PROJECT_DIR$/.idea/Bai TapThucHanh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan4/Bai3/Bai3.iml" filepath="$PROJECT_DIR$/BaiTapTuan4/Bai3/Bai3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan4/Bai4/Bai4.iml" filepath="$PROJECT_DIR$/BaiTapTuan4/Bai4/Bai4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan4/Bai5/Bai5.iml" filepath="$PROJECT_DIR$/BaiTapTuan4/Bai5/Bai5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan4/Bai6/Bai6.iml" filepath="$PROJECT_DIR$/BaiTapTuan4/Bai6/Bai6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan4/Bai7/Bai7.iml" filepath="$PROJECT_DIR$/BaiTapTuan4/Bai7/Bai7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan2/BaiTapTuan2.iml" filepath="$PROJECT_DIR$/BaiTapTuan2/BaiTapTuan2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan3/BaiTapTuan3.iml" filepath="$PROJECT_DIR$/BaiTapTuan3/BaiTapTuan3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan4/BaiTapTuan4.iml" filepath="$PROJECT_DIR$/BaiTapTuan4/BaiTapTuan4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan3/Balanced Brackets/Balanced Brackets.iml" filepath="$PROJECT_DIR$/BaiTapTuan3/Balanced Brackets/Balanced Brackets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/BucketSort/BucketSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/BucketSort/BucketSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/BuddleSort/BuddleSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/BuddleSort/BuddleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/CountingSort/CountingSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/CountingSort/CountingSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan3/Equal Stacks/Equal Stacks.iml" filepath="$PROJECT_DIR$/BaiTapTuan3/Equal Stacks/Equal Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find the running median/Find the running median.iml" filepath="$PROJECT_DIR$/Find the running median/Find the running median.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H-index/H-index.iml" filepath="$PROJECT_DIR$/H-index/H-index.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/InsertionSort/InsertionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai Tap Tuan 9/Is This a Binary Search Tree/Is This a Binary Search Tree.iml" filepath="$PROJECT_DIR$/Bai Tap Tuan 9/Is This a Binary Search Tree/Is This a Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/Merge sort/Merge sort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/Merge sort/Merge sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/MergeSort/MergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/RadixSort/RadixSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/RadixSort/RadixSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/SelectionSort/SelectionSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/ShellSort/ShellSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/ThuatToanSapXep.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/ThuatToanSapXep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tuan 9/Tuan 9.iml" filepath="$PROJECT_DIR$/Tuan 9/Tuan 9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tuan6/Tuan6.iml" filepath="$PROJECT_DIR$/Tuan6/Tuan6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai Tap Tuan 9/binarySearchTree/binarySearchTree.iml" filepath="$PROJECT_DIR$/Bai Tap Tuan 9/binarySearchTree/binarySearchTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai Tap Tuan 9/selfBalancingTree/selfBalancingTree.iml" filepath="$PROJECT_DIR$/Bai Tap Tuan 9/selfBalancingTree/selfBalancingTree.iml" />
     </modules>
   </component>
 </project>

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Main {
+public class EqualStack {
     public static int equalStacks (int[] h1, int[] h2, int[] h3) {
         Stack<Integer> s1 = new Stack<>();
         Stack<Integer> s2 = new Stack<>();
@@ -11,15 +11,15 @@ public class Main {
 
         for (int i = h1.length -1; i >= 0; i-- ) {
             s1.push(h1[i]);
-            sum1 += 1;
+            sum1 += h1[i];
         }
         for (int i = h2.length -1; i >= 0; i-- ) {
             s2.push(h2[i]);
-            sum2 += 1;
+            sum2 += h2[i];
         }
         for (int i = h3.length -1; i >= 0; i-- ) {
             s3.push(h3[i]);
-            sum3 += 1;
+            sum3 += h3[i];
         }
 
         while ( sum1 == sum2 && sum2 == sum3) {

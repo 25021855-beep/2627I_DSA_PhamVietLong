@@ -1,7 +1,7 @@
 import java.util.Stack;
 import java.util.Scanner;
 
-public class Main {
+public class BalanceBrackets {
     public static boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
 
