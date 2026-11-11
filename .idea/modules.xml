@@ -16,6 +16,9 @@
       <module fileurl="file://$PROJECT_DIR$/BaiTapTuan2/BaiTapTuan2.iml" filepath="$PROJECT_DIR$/BaiTapTuan2/BaiTapTuan2.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTapTuan3/BaiTapTuan3.iml" filepath="$PROJECT_DIR$/BaiTapTuan3/BaiTapTuan3.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTapTuan4/BaiTapTuan4.iml" filepath="$PROJECT_DIR$/BaiTapTuan4/BaiTapTuan4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan5/BaiTapTuan5.iml" filepath="$PROJECT_DIR$/BaiTapTuan5/BaiTapTuan5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan6/BaiTapTuan6.iml" filepath="$PROJECT_DIR$/BaiTapTuan6/BaiTapTuan6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan7/BaiTapTuan7.iml" filepath="$PROJECT_DIR$/BaiTapTuan7/BaiTapTuan7.iml" />
       <module fileurl="file://$PROJECT_DIR$/BaiTapTuan3/Balanced Brackets/Balanced Brackets.iml" filepath="$PROJECT_DIR$/BaiTapTuan3/Balanced Brackets/Balanced Brackets.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/BucketSort/BucketSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/BucketSort/BucketSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/BuddleSort/BuddleSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/BuddleSort/BuddleSort.iml" />
@@ -25,9 +28,13 @@
       <module fileurl="file://$PROJECT_DIR$/H-index/H-index.iml" filepath="$PROJECT_DIR$/H-index/H-index.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/InsertionSort/InsertionSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/InsertionSort/InsertionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bai Tap Tuan 9/Is This a Binary Search Tree/Is This a Binary Search Tree.iml" filepath="$PROJECT_DIR$/Bai Tap Tuan 9/Is This a Binary Search Tree/Is This a Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan6/JavaPriorityQueue/JavaPriorityQueue.iml" filepath="$PROJECT_DIR$/BaiTapTuan6/JavaPriorityQueue/JavaPriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan6/JesseAndCookies/JesseAndCookies.iml" filepath="$PROJECT_DIR$/BaiTapTuan6/JesseAndCookies/JesseAndCookies.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/Merge sort/Merge sort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/Merge sort/Merge sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/MergeSort/MergeSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/MergeSort/MergeSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan5/QuickSort1-Partition/QuickSort1-Partition.iml" filepath="$PROJECT_DIR$/BaiTapTuan5/QuickSort1-Partition/QuickSort1-Partition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTapTuan5/QuickSortIn-Place/QuickSortIn-Place.iml" filepath="$PROJECT_DIR$/BaiTapTuan5/QuickSortIn-Place/QuickSortIn-Place.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/RadixSort/RadixSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/RadixSort/RadixSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/SelectionSort/SelectionSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/SelectionSort/SelectionSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/ThuatToanSapXep/ShellSort/ShellSort.iml" filepath="$PROJECT_DIR$/ThuatToanSapXep/ShellSort/ShellSort.iml" />
